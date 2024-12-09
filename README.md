@@ -13,7 +13,7 @@ My Name: Colten Parker
 My Country: United States
 </li>
 <li>
-Age: 14 (adjust as needed)
+Age: 14
 </li>
 </ul>
 
