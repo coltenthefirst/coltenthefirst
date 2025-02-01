@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=1000&lines=Hey!+Welcome+To+Unknowingly+Exists's+GitHub+Profile)](https://github.com/coltenthefirst)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=1000&lines=Hey!+Welcome+To+Unknowingly+Exists's+GitHub+Profile!)](https://github.com/coltenthefirst)
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> **Welcome Mate**
 </br>
