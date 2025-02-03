@@ -36,7 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/unknowingly_exists" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unknowingly_exists" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/unknowingly_exists" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unknowingly_exists" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Unknowingly_Exists" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unknowingly_exists" height="30" width="40" /></a>
 <a href="https://discord.gg/fhkuPHYRPc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fhkuPHYRPc" height="30" width="40" /></a>
 </p>
 
