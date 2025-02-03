@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&width=1000&lines=Hey!+Welcome+To+Unknowingly+Exists's+GitHub+Profile!)](https://github.com/coltenthefirst)
 <img src="https://komarev.com/ghpvc/?username=coltenthefirst" alt="views on github" />
 
-<h1 align="center">Hi 👋, I'm Colten Parker</h1>
+<h1 align="center">Hi 👋, I'm Unknowingly Exists</h1>
 <h3 align="center">"You're one interesting guy..." - something my friends said. I don't know if thats bad or not lmfao...</h3>
 
 <h3 align="center">|</h4>
