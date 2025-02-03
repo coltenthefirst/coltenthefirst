@@ -34,7 +34,7 @@
     My Grade Level: <strong>9th Grade</strong> <em>(Highschool)</em>
   </li>
   <li>
-    My IQ Level: <strong>106</strong> <em>(https://realiq.online)</em>
+    My IQ: <strong>106</strong> <em>(https://realiq.online)</em>
   </li>
 </ul>
 
