@@ -64,7 +64,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" alt="haxe" width="40" height="40"/> 
   </a>
 </p>
-### (funfact: html is not a programming language. I just put html here because idk where else to put it.)
+
+(funfact! HTML is NOT a programming language. I just put HTML here because I don't know where else to put it.)
   
 <img src="https://github-readme-stats.vercel.app/api?username=coltenthefirst&show_icons=true&hide_title=false&theme=chartreuse-dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coltenthefirst&layout=compact&theme=tokyonight"/>
