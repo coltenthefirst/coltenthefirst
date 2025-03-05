@@ -50,7 +50,8 @@
 </p>
 
 <h3 align="left">Languages I do:</h3>
-<p align="left"> 
+<p align="left">
+  (funfact: html is not a programming language. I just put html here because idk where else to put it.)
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
