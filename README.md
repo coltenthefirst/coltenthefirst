@@ -21,20 +21,6 @@
 
 <h3 align="left">About me:</h3>
 
-<ul>
-  <li>
-    My Surname: <strong>Colten Parker</strong>
-  </li>
-  <li>
-    My Country: <strong>United States</strong>
-  </li>
-  <li>
-    My Age: <strong>15</strong> <em>(Turned 145 in October 2025)</em>
-  <li>
-    My Grade Level: <strong>10th Grade</strong> <em>(Highschool)</em>
-  </li>
-</ul>
-
 <h3 align="left">Spotify Recently Played:</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ucjoekbchnio4edmhfc6gxhlua)
