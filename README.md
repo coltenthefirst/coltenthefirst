@@ -29,9 +29,9 @@
     My Country: <strong>United States</strong>
   </li>
   <li>
-    My Age: <strong>14</strong> <em>(Turned 14 in October 2024)</em>
+    My Age: <strong>15</strong> <em>(Turned 14 in October 2024)</em>
   <li>
-    My Grade Level: <strong>9th Grade</strong> <em>(Highschool)</em>
+    My Grade Level: <strong>10th Grade</strong> <em>(Highschool)</em>
   </li>
   <li>
     My IQ: <strong>106</strong> <em>(https://realiq.online)</em>
