@@ -29,7 +29,7 @@
     My Country: <strong>United States</strong>
   </li>
   <li>
-    My Age: <strong>15</strong> <em>(Turned 14 in October 2024)</em>
+    My Age: <strong>15</strong> <em>(Turned 145 in October 2025)</em>
   <li>
     My Grade Level: <strong>10th Grade</strong> <em>(Highschool)</em>
   </li>
