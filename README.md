@@ -33,9 +33,6 @@
   <li>
     My Grade Level: <strong>10th Grade</strong> <em>(Highschool)</em>
   </li>
-  <li>
-    My IQ: <strong>106</strong> <em>(https://realiq.online)</em>
-  </li>
 </ul>
 
 <h3 align="left">Spotify Recently Played:</h3>
